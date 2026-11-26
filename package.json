@@ -1,0 +1,8 @@
+{
+  "name": "shw-nui-android-workspace",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@11.0.9",
+  "scripts": { "generate": "node scripts/generate.mjs", "test": "node --test scripts/generate.test.mjs" },
+  "devDependencies": { "@shwkj/shw-ui-tokens": "https://github.com/shyun-cc/shw-ui-tokens/releases/download/v0.33.1/shwkj-shw-ui-tokens-0.33.1.tgz" }
+}

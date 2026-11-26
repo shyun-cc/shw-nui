@@ -1,0 +1,25 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    devDependencies:
+      '@shwkj/shw-ui-tokens':
+        specifier: https://github.com/shyun-cc/shw-ui-tokens/releases/download/v0.33.1/shwkj-shw-ui-tokens-0.33.1.tgz
+        version: https://github.com/shyun-cc/shw-ui-tokens/releases/download/v0.33.1/shwkj-shw-ui-tokens-0.33.1.tgz
+
+packages:
+
+  '@shwkj/shw-ui-tokens@https://github.com/shyun-cc/shw-ui-tokens/releases/download/v0.33.1/shwkj-shw-ui-tokens-0.33.1.tgz':
+    resolution: {integrity: sha512-mAfQYqIJd1RzbZmq0enZnNy+ybzIeMFhmiK1UZAL5H+EwKd+0TjuQMjEjO6X3jX/v0Sbkt1DlrWEep2OzioB8g==, tarball: https://github.com/shyun-cc/shw-ui-tokens/releases/download/v0.33.1/shwkj-shw-ui-tokens-0.33.1.tgz}
+    version: 0.33.1
+    engines: {node: '>=22'}
+    hasBin: true
+
+snapshots:
+
+  '@shwkj/shw-ui-tokens@https://github.com/shyun-cc/shw-ui-tokens/releases/download/v0.33.1/shwkj-shw-ui-tokens-0.33.1.tgz': {}
