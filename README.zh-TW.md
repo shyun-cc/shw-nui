@@ -1,6 +1,6 @@
 # shw-nui
 
-[English](./README.md) | [简体中文](./README.zh-CN.md) | 繁體中文
+[简体中文](./README.md) | [English](./README.en.md) | 繁體中文
 
 面向 Jetpack Compose 的原生 Android UI 元件。元件庫提供亮色和暗色主題以及通用控制元件。隨附的演示使用本地資料展示餐飲控制檯示例。
 
