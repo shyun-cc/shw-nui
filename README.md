@@ -16,6 +16,12 @@ pnpm test
 
 The library AAR is written to `nui/build/outputs/aar/`. The debug demo APK is written to `demo/build/outputs/apk/debug/`. To run the demo, open this repository in Android Studio and select the `demo` module.
 
+## 鸣谢与第三方版权（Acknowledgments & Licenses）
+
+- [Jetpack Compose](https://developer.android.com/compose), [Compose Material 3](https://developer.android.com/jetpack/androidx/releases/compose-material3) and [AndroidX Activity Compose](https://developer.android.com/jetpack/androidx/releases/activity) provide the native UI, theming and activity integration. These AndroidX dependencies are distributed under [Apache-2.0](https://github.com/androidx/androidx/blob/androidx-main/LICENSE.txt).
+- [Kotlin](https://github.com/JetBrains/kotlin) (Apache-2.0), the [Android Gradle Plugin](https://developer.android.com/build/releases/gradle-plugin) and [Gradle](https://github.com/gradle/gradle) (Apache-2.0) power the Android build. The repository includes the Gradle Wrapper scripts and JAR. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for their provenance and upstream license.
+- [JUnit 4](https://github.com/junit-team/junit4) ([EPL-1.0](https://github.com/junit-team/junit4/blob/r4.13.2/LICENSE-junit.txt)) and [Robolectric](https://github.com/robolectric/robolectric) ([MIT](https://github.com/robolectric/robolectric/blob/robolectric-4.14.1/LICENSE)) support the demo tests.
+
 ## License
 
 [MIT](LICENSE).
